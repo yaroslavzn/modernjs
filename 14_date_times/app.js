@@ -13,11 +13,11 @@ val = today.getHours();
 val = today.getMinutes();
 val = today.getSeconds();
 
-birthday.setMonth('11');
-birthday.setDate('26');
-birthday.setFullYear('1988');
-birthday.setHours('12');
-birthday.setMinutes('30');
-birthday.setSeconds('59');
+birthday.setMonth(11);
+birthday.setDate(26);
+birthday.setFullYear(1988);
+birthday.setHours(12);
+birthday.setMinutes(30);
+birthday.setSeconds(59);
 
 console.log(birthday);
